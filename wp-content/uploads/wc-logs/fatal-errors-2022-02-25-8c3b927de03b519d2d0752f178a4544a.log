@@ -1,0 +1,8 @@
+2022-02-25T12:43:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\attribute-filter.asset.php à la ligne 1
+
+2022-02-25T18:07:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Schedulers\ImportScheduler.php à la ligne 8
+
+2022-02-25T18:42:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-25T18:42:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php à la ligne 139
+

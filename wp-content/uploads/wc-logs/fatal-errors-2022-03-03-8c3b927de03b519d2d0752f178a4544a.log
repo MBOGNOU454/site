@@ -1,0 +1,17 @@
+2022-03-03T10:27:28+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\wp-api.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\wp-api.php(36): Elementor\Core\Wp_Api->get_plugins()
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\system-info\reporters\plugins.php(44): Elementor\Core\Wp_Api->get_active_plugins()
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\system-info\reporters\plugins.php(75): Elementor\Modules\System_Info\Reporters\Plugins->get_plugins()
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\system-info\module.php(298): Elementor\Modules\System_Info\Reporters\Plugins->is_enabled()
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\system-info\module.php(255): Elementor\Modules\System_Info\Module->create_reporter(Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\tracker.php(228): Elementor\Modules\System_Info\Module->load_reports(Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\tracker.php(467): Elementor\Tracker::get_system_reports_data()
+#7 C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\tracker.php(135): Elementor\Tracker::get_tracking_data(false)
+#8 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(307): Elementor\Tracker::send_tracking_data()
+#9 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\wordpress\wp-cron.php(138): do_action_ref_array('elementor/track...', Array)
+#12 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\wp-api.php à la ligne 26
+

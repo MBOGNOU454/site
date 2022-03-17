@@ -1,0 +1,23 @@
+{
+    "/admin/js/boot.js": "/admin/js/boot.js",
+    "/admin/js/fluent-mail-admin-app.js": "/admin/js/fluent-mail-admin-app.js",
+    "/admin/css/fluent-mail-admin.css": "/admin/css/fluent-mail-admin.css",
+    "/admin/css/fonts/element-icons.ttf": "/admin/css/fonts/element-icons.ttf",
+    "/admin/css/fonts/element-icons.woff": "/admin/css/fonts/element-icons.woff",
+    "/images/amazon.png": "/images/amazon.png",
+    "/images/default.svg": "/images/default.svg",
+    "/images/fluentsmtp-white.png": "/images/fluentsmtp-white.png",
+    "/images/fluentsmtp.png": "/images/fluentsmtp.png",
+    "/images/gmail-logo.png": "/images/gmail-logo.png",
+    "/images/logo.svg": "/images/logo.svg",
+    "/images/mail_signature.png": "/images/mail_signature.png",
+    "/images/mailgun.svg": "/images/mailgun.svg",
+    "/images/microsoft.svg": "/images/microsoft.svg",
+    "/images/pepipost-logo.png": "/images/pepipost-logo.png",
+    "/images/postmark.svg": "/images/postmark.svg",
+    "/images/sendgrid.svg": "/images/sendgrid.svg",
+    "/images/sendinblue.svg": "/images/sendinblue.svg",
+    "/images/smtp.svg": "/images/smtp.svg",
+    "/images/sparkpost.png": "/images/sparkpost.png",
+    "/images/wpmn-fb.jpg": "/images/wpmn-fb.jpg"
+}

@@ -1,0 +1,38 @@
+2022-03-08T07:34:30+00:00 CRITICAL Uncaught TypeError: array_column(): Argument #1 ($array) must be of type array, string given in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\Transformers\ArrayColumn.php:27
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\Transformers\ArrayColumn.php(27): array_column('', 'slug')
+#1 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\TransformerService.php(59): Automattic\WooCommerce\Admin\RemoteInboxNotifications\Transformers\ArrayColumn->transform('', Object(stdClass), '')
+#2 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\OptionRuleProcessor.php(45): Automattic\WooCommerce\Admin\RemoteInboxNotifications\TransformerService::apply('', Array, '')
+#3 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\RuleEvaluator.php(62): Automattic\WooCommerce\Admin\RemoteInboxNotifications\OptionRuleProcessor->process(Object(stdClass), NULL)
+#4 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\RemoteFreeExtensions\EvaluateExtension.php(27): Automattic\WooCommerce\Admin\RemoteInboxNotifications\RuleEvaluator->evaluate(Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\RemoteFreeExtensions\Init.php(48): Automattic\WooCommerce\Admin\Features\RemoteFreeExtensions\EvaluateExtension::evaluate(Object(stdClass))
+#6 C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\OnboardingFreeExtensions.php(75): Automattic\WooCommerce\Admin\Features\RemoteFreeExtensions\Init::get_extensions()
+#7 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(1141): Automattic\WooCommerce\Admin\API\OnboardingFreeExtensions->get_available_extensions(Object(WP_REST_Request))
+#8 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(988): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wc-admin/onboa...', Array, NULL)
+#9 C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php(414): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#10 C:\xampp\htdocs\wordpress\wp-includes\rest-api.php(386): WP_REST_Server->serve_request('/wc-admin/onboa...')
+#11 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(307): rest_api_loaded(Object(WP))
+#12 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#13 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(396): do_action_ref_array('parse_request', Array)
+#15 C:\xampp\htdocs\wordpress\wp-includes\class-wp.php(758): WP->parse_request('')
+#16 C:\xampp\htdocs\wordpress\wp-includes\functions.php(1310): WP->main('')
+#17 C:\xampp\htdocs\wordpress\wp-blog-header.php(16): wp()
+#18 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#19 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\RemoteInboxNotifications\Transformers\ArrayColumn.php à la ligne 27
+
+2022-03-08T10:31:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-03-08T14:59:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-03-08T15:02:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-03-08T16:16:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php à la ligne 95
+
+2022-03-08T16:20:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-03-08T16:47:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-03-08T18:59:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+

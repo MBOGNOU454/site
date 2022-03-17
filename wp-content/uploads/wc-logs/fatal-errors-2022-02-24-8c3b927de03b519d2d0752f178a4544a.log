@@ -1,0 +1,12 @@
+2022-02-24T16:59:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\l10n.php à la ligne 1172
+
+2022-02-24T17:00:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php à la ligne 139
+
+2022-02-24T17:03:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\translatepress-multilingual\includes\class-languages.php à la ligne 241
+
+2022-02-24T17:04:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-list-table.php à la ligne 1523
+
+2022-02-24T17:09:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php à la ligne 81
+
+2022-02-24T17:10:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\l10n.php à la ligne 748
+

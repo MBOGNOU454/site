@@ -1,0 +1,70 @@
+2022-02-18T08:42:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-18T08:57:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Assets\Api.php à la ligne 197
+
+2022-02-18T10:27:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-list-table-compat.php à la ligne 68
+
+2022-02-18T10:38:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 4488
+
+2022-02-18T10:44:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 293
+
+2022-02-18T10:44:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php à la ligne 139
+
+2022-02-18T10:46:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pluggable-deprecated.php à la ligne 18
+
+2022-02-18T10:51:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\translatepress-multilingual\includes\class-settings.php à la ligne 622
+
+2022-02-18T10:53:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-18T10:53:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 4488
+
+2022-02-18T11:11:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\link-template.php à la ligne 4429
+
+2022-02-18T11:11:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\plugin.php à la ligne 164
+
+2022-02-18T11:12:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php à la ligne 125
+
+2022-02-18T11:13:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php à la ligne 125
+
+2022-02-18T11:13:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\entry.php à la ligne 51
+
+2022-02-18T11:18:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-18T11:19:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\class-wp-embed.php à la ligne 443
+
+2022-02-18T11:21:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\formatting.php à la ligne 5792
+
+2022-02-18T11:21:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-18T11:22:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\template-hooks.php à la ligne 13
+
+2022-02-18T11:22:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\class-theme.php à la ligne 161
+
+2022-02-18T11:22:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\components\editor\component.php à la ligne 21
+
+2022-02-18T11:22:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\components\amp\component.php à la ligne 25
+
+2022-02-18T11:23:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php à la ligne 180
+
+2022-02-18T11:23:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\history\module.php à la ligne 7
+
+2022-02-18T11:23:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 4488
+
+2022-02-18T11:30:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\CartCoupons.php à la ligne 134
+
+2022-02-18T11:30:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\Domain\Services\CreateAccount.php à la ligne 264
+
+2022-02-18T11:34:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\wp-db.php à la ligne 2162
+
+2022-02-18T11:58:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\blocks.php à la ligne 234
+
+2022-02-18T11:58:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\blocks.php à la ligne 234
+
+2022-02-18T11:58:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 4488
+
+2022-02-18T12:52:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php à la ligne 293
+
+2022-02-18T18:25:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor-pro\plugin.php à la ligne 139
+
+2022-02-18T18:28:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\settings\base\manager.php à la ligne 7
+
